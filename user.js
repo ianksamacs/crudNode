@@ -34,8 +34,6 @@ function removeUser(id){
   salvar('./db.txt', saida)
 }
 
-addUser("Jhon", "759874541", "032457821854", "ianksamacs@gmail.com");
-//removeUser('4')
 
-module.exports = { addUser }
+module.exports = { addUser, removeUser }
 
