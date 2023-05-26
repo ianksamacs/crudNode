@@ -4,7 +4,7 @@
   "description": "Api desenvolvida para um processo seletivo.",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon user.js",
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

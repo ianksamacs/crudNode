@@ -21,7 +21,6 @@ function salvar(arquivo, conteudo){
       console.error('Erro ao escrever no arquivo:', err);
       return;
     }
-    console.log('Arquivo gravado com sucesso!');
   });
 }
 
